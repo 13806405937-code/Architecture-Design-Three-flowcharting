@@ -1,0 +1,19 @@
+{
+  "name": "Architectural information-graphic example palette",
+  "status": "Editable reference preset; not an official company palette",
+  "tier_families": {
+    "core": ["#174F65"],
+    "direct": ["#A95722", "#B96023", "#C96D28", "#D77A31"],
+    "second": ["#49692A", "#587C30", "#678C38", "#769B45"],
+    "third": ["#66537E", "#76618D", "#87729E", "#9785AC"]
+  },
+  "materials": {
+    "warm_white_facade": ["#FCF7EB", "#F0EBDD"],
+    "concrete_and_metal": ["#DDE1DC", "#C6CFCC", "#A8BABD"],
+    "blue_glazing": ["#9DCCD3", "#68AFC3", "#438BA7", "#215B73"],
+    "brick": ["#E39460", "#CD6A41", "#A84D32"],
+    "planting": ["#BDCF7D", "#91B648", "#709739", "#4C742D"],
+    "frames": ["#233D46", "#506D78"]
+  },
+  "link_families": ["#1D657B", "#CC5B27", "#5B782D", "#78618C", "#367F9A", "#9D790B"]
+}

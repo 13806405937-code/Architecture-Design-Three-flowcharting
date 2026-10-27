@@ -1,0 +1,6 @@
+interface:
+  display_name: "建筑轴测与关系工作流"
+  short_description: "通过 Illustrator MCP 绘制可编辑建筑轴测图与注重方位的无重叠关系工作流"
+  default_prompt: "使用 $illustrator-isometric-architecture，根据我提供的建筑资料绘制可编辑轴测节点，并按需要组织和校核建筑关系工作流。"
+policy:
+  allow_implicit_invocation: true
